@@ -1,6 +1,6 @@
 # Lottie
 
-## Introduction à Lottie
+## Introduction 
 Lottie est une bibliothèque d’animation open-source créée par Airbnb qui a révolutionné la façon dont les animations sont utilisées dans les applications mobiles et web. Elle permet aux concepteurs de créer des animations complexes dans **Adobe After Effects** et de les exporter au format JSON à l’aide d’un plugin appelé **Bodymovin**. Ces fichiers JSON peuvent ensuite être utilisés dans votre application pour afficher des animations de haute qualité qui peuvent être contrôlées de manière dynamique avec du code.
 L’un des principaux avantages de Lottie est qu’elle utilise le **rendu vectoriel** pour les animations. Cela signifie que **les animations peuvent être redimensionnées sans perte de qualité**, ce qui est parfait pour les applications qui doivent fonctionner sur une variété de tailles d’écran et de résolutions.
 En outre, Lottie offre une grande flexibilité en termes de **contrôle des animations**. Vous pouvez démarrer, arrêter, boucler et même modifier la vitesse de l’animation de manière programmatique. Cela ouvre un monde de possibilités pour créer des **expériences utilisateur interactives et engageantes**.
