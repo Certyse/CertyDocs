@@ -19,7 +19,8 @@ function HomepageHeader() {
             light: useBaseUrl('/img/logo_black.png'),
             dark: useBaseUrl('/img/logo_white.png'),
           }}
-        />;
+          className={styles.heroLogo}
+        />
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>

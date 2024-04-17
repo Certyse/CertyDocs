@@ -62,10 +62,6 @@ const config = {
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Certy',
-        logo: {
-          alt: 'Certy Logo',
-          src: 'img/logo.png',
-        },
         items: [
           {
             type: 'docSidebar',
